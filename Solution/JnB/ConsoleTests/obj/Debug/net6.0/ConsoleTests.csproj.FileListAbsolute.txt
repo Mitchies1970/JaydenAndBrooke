@@ -1,0 +1,17 @@
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\bin\Debug\net6.0\appsettings.Development.json
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\bin\Debug\net6.0\appsettings.json
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\bin\Debug\net6.0\ConsoleTests.exe
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\bin\Debug\net6.0\ConsoleTests.deps.json
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\bin\Debug\net6.0\ConsoleTests.runtimeconfig.json
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\bin\Debug\net6.0\ConsoleTests.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\bin\Debug\net6.0\ConsoleTests.pdb
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ConsoleTests.csproj.AssemblyReference.cache
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ConsoleTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ConsoleTests.AssemblyInfoInputs.cache
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ConsoleTests.AssemblyInfo.cs
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ConsoleTests.csproj.CoreCompileInputs.cache
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ConsoleTests.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\refint\ConsoleTests.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ConsoleTests.pdb
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ConsoleTests.genruntimeconfig.cache
+C:\dev\JaydenAndBrooke\Solution\JnB\ConsoleTests\obj\Debug\net6.0\ref\ConsoleTests.dll
