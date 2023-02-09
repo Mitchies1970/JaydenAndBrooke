@@ -8,15 +8,17 @@ namespace ConsoleTests
         {
             Console.WriteLine("Hello, World!");
 
-            static async Task Main(string[] args)
-            {
+            IConfiguration configuration = new ConfigurationBuilder()
+              .AddJsonFile("appsettings.Development.json", optional: true, reloadOnChange: true)
+              .AddEnvironmentVariables()
+              .AddCommandLine(args)
+              .Build();
 
-                IConfiguration Configuration = new ConfigurationBuilder()
-                  .AddJsonFile("appsettings.Development.json", optional: true, reloadOnChange: true)
-                  .AddEnvironmentVariables()
-                  .AddCommandLine(args)
-                  .Build();
-            }
+            var _connectionString = configuration
+                        .GetSection("CosmosDBConnection")
+                        .Get<JnB.BusinessLogic.DTOs.CosmosDBConnection>();
+
+            Console.WriteLine(_connectionString.EndpointUri);
 
         }
     }

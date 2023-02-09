@@ -10,3 +10,8 @@ C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\ne
 C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\refint\JnB.BusinessLogic.dll
 C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\JnB.BusinessLogic.pdb
 C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\ref\JnB.BusinessLogic.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\bin\Debug\net6.0\msvcp140.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\bin\Debug\net6.0\vcruntime140.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\bin\Debug\net6.0\vcruntime140_1.dll
