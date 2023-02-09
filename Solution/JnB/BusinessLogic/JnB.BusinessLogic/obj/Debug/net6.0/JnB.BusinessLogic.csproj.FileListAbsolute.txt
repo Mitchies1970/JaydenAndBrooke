@@ -1,0 +1,12 @@
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\bin\Debug\net6.0\JnB.BusinessLogic.deps.json
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\bin\Debug\net6.0\JnB.BusinessLogic.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\bin\Debug\net6.0\JnB.BusinessLogic.pdb
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\JnB.BusinessLogic.csproj.AssemblyReference.cache
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\JnB.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\JnB.BusinessLogic.AssemblyInfoInputs.cache
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\JnB.BusinessLogic.AssemblyInfo.cs
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\JnB.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\JnB.BusinessLogic.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\refint\JnB.BusinessLogic.dll
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\JnB.BusinessLogic.pdb
+C:\dev\JaydenAndBrooke\Solution\JnB\BusinessLogic\JnB.BusinessLogic\obj\Debug\net6.0\ref\JnB.BusinessLogic.dll

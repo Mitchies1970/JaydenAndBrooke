@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JnB_MVC.props" />
+</Project>
