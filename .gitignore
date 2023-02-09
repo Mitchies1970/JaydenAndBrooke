@@ -1,2 +1,8 @@
 
-Solution/JnB/.vs/JnB/v17/.suo
+.vs/JnB/v17/.suo
+bin/
+obj/
+*.user
+Solution/.vs/
+Solution/.cr/
+
